@@ -1,0 +1,7 @@
+{
+  "row-selector": "//*[contains(@class, 'fc-item')]",
+  "mapping": {
+    "title": ".//*[contains(@class, 'fc-item__title')]",
+    "href": ".//*[contains(@class, 'fc-item__link')]/@href"
+  }
+}
